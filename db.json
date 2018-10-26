@@ -2,33 +2,33 @@
   "users": [
     {
       "id": "1",
-      "firstName": "Gopala Krishna",
-      "lastName": "Udipi",
-      "email": "gopi.udipi@gmail.com",
+      "firstName": "User1_Firstname",
+      "lastName": "User1_Lastname",
+      "email": "user1@testgmail.com",
       "age": 44,
       "companyId": "1"
     },
     {
       "id": "2",
-      "firstName": "Geetha",
-      "lastName": "Kannabiran",
-      "email": "kannabirangeetha@yahoo.co.in",
+      "firstName": "User2_Firstname",
+      "lastName": "User2_Lastname",
+      "email": "user2@testgmail.com",
       "age": 39,
       "companyId": "1"
     },
     {
       "id": "3",
-      "firstName": "Kala Kishan",
-      "lastName": "Kishan",
-      "email": "kishan.udipi@gmail.com",
+      "firstName": "User3_Firstname",
+      "lastName": "User3_Lastname",
+      "email": "uuser3@testgmail.com",
       "age": 7,
       "companyId": "2"
     },
 	{
       "id": "4",
-      "firstName": "Yathvikh",
-      "lastName": "Reghu",
-      "email": "kishan.udipi@gmail.com",
+      "firstName": "User4_Firstname",
+      "lastName": "User4_Lastname",
+      "email": "user4@testgmail.com",
       "age": 2,
       "companyId": "3"
     },
